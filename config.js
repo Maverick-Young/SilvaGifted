@@ -72,7 +72,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 global.devs = "254700143167, 254743706010 " // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') :  "254700143167, 254743706010";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254700143167, 254743706010";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349112170266, 2349112170266";
 
 
 
@@ -106,12 +106,12 @@ global.api_smd = "https://api-smd.onrender.com"
 global.scan = "https://sessiongenerator-97b069cd3eac.herokuapp.com/pair";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  "" ; // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID ||  "Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicURYQkFmTTQ0V1ZYWWk0SmF6TzVrQzN1L2xVZ3pXeGNrWFdBZUZnK0pWUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiREJEYzB1dWlWbGxOV0Y2eW15TTJnQjJYN3ZrT3M5OGQ5MUZEd2JsRDZ4MD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBTlFYaGU0eGN1RFRkOWpwejVmSTNkRnhVSFJ2a2I2OFJIR0ZQUVVaQW1VPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwZW1rN1pSMjVLMDJDcVIrV2QxcHg4SjlLQ3kyenltcXEzS3o1ekR5R1ZBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9MK0RJOUZrYmg4aE43Q1gzc3hrNUI3bklZc2F5QlZDWjhYQWZHQnJLbU09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9DbWN0K3FJUTExWjJPZ1JLYzBVVE9KZ0lrTXhJUERvZFpUQVJycytOMDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK01leVZiNWlDbSs2a3VkbzJRSGpESTlLTE8zNWd2Uis5eHlPbVRqb3dsaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiN3hDTTNkdExleWduR3YzQThhNnl2RXBwR3FuSURrSnIwUWZnalplVCtGST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ild5S0xBUEMrTHZjWWNxeHFSMTY0OXVldWdjV2hzcmVnd0ZBSEVjdzl1NkY4bU1xS2ZRb1EwRFBrVTBaMndvYjJvN1hLaFRvNTYvdWtUU0lBbVNkM2p3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OCwiYWR2U2VjcmV0S2V5IjoiUUdqbHExYnV2MHRWUEhXUGMwUVJ3NUoxcE8wRi9KTjVxN1dzaE9yTWNPND0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOlt7ImtleSI6eyJyZW1vdGVKaWQiOiIyMzQ5MTEyMTcwMjY2QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjA3ODJDNDc1NTg1NkRDNDM5NzY5RjMzOUEwRTY5NTVEIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MTUwNzI5MDl9XSwibmV4dFByZUtleUlkIjo2MSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjYxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IkVJZWk1YUtuU0FpLVlkcDFYV292enciLCJwaG9uZUlkIjoiZWI2YTkxMGEtZjRjZC00MmI4LWFmZGQtNzZlZDkxY2E2MDM2IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVOWGRqc2FzK0hCWkg0YUFDRzVXeXR3WmNrMD0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJSaVpPcmhYV29uNkJnZit4LzV1bnljNUp2T0U9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiMUIxSDlGTVIiLCJtZSI6eyJpZCI6IjIzNDkxMTIxNzAyNjY6MjFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiWW91bmcgTGVnZW5kIChPcmcpIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNMTHd5dHNERVB2ZTU3RUdHQVlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJaNmcwOFNDQUFHVmh2QXJFSTVWSkQvcis0eTBKVVNnQWxjWk9FOXhQaTE4PSIsImFjY291bnRTaWduYXR1cmUiOiJlL2dIeUdJMmhtbTVZWEQ1L1RxY3F0QUgrOU4vSkhsLzI0MUdCdERiT04zcXhDb1dtaFJUZTlCajl0ZStJdGZPSjVsdUpXbDZGYjZwMDZlNmIvdHlDZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiVTdSUk80UEhKN3MyQTE1ZGxHVHdWWmx1a3RrYmtIZEVnTzUvZXdKeVFqdlhEZmJmY0lMbnNLSGZLWU5GUWlSVHNOdnJENStiekg1K2tnWUFtb0xxalE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ5MTEyMTcwMjY2OjIxQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQldlb05QRWdnQUJsWWJ3S3hDT1ZTUS82L3VNdENWRW9BSlhHVGhQY1Q0dGYifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTUwNzI5MDQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBRkc5In0=" ; // PUT your SESSION_ID 
 
 
 module.exports = {
 
-  menu: process.env.MENU || "1", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Gifted-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "3", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Gifted-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
@@ -121,7 +121,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "Silva Tech",
   packname: process.env.PACK_NAME || "Silva-Md♥️",
   botname : process.env.BOT_NAME  || "𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "Silva Tech",
+  ownername:process.env.OWNER_NAME|| "Young_Legend",
 
 
   errorChat : process.env.ERROR_CHAT || "",
